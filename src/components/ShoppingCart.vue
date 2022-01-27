@@ -52,7 +52,6 @@ export default {
   },
   data () {
     return {
-      // paint1: require('../statics/paint1.jpg')
     }
   }
 }
